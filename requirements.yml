@@ -1,0 +1,2 @@
+- src: git+ssh://git@bitbucket.org/morea/ansible-role-upgrade.git
+  version: v0.1.0

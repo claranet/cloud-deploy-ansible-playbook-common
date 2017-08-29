@@ -1,0 +1,6 @@
+---
+- name: Ghost common playbook
+  hosts: all
+
+  roles:
+    - ansible-role-upgrade
