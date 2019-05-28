@@ -1,2 +1,2 @@
-- src: git+ssh://git@bitbucket.org/morea/ansible-role-upgrade.git
+- src: git+ssh://git@git.fr.clara.net/claranet/cloudnative/projects/ansible/roles/system-upgrade.git
   version: v0.1.0

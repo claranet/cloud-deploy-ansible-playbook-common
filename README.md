@@ -5,4 +5,4 @@ This playbook gathers all the role assumed as "common" for a Claranet Cloud Depl
 
 Currently:
 
-* ansible-role-upgrade : https://bitbucket.org/morea/ansible-role-upgrade
+* system-upgrade: https://git.fr.clara.net/claranet/cloudnative/projects/ansible/roles/system-upgrade

@@ -1,6 +1,6 @@
 ---
-- name: Ghost common playbook
+- name: Cloud-deploy common bake playbook
   hosts: all
 
   roles:
-    - ansible-role-upgrade
+    - system-upgrade
